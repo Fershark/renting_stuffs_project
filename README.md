@@ -1,6 +1,6 @@
 # Renting Stuffs Project
 
-Douglas College CSIS 4175 - Mobile Application Development II REST API and Android project.
+REST API and Android project for Douglas College CSIS 4175 - Mobile Application Development II.
 
 The project help users share theirs barely used items to get some money and also get their demand items instead of buying new one.
 
